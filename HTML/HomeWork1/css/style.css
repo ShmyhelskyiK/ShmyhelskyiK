@@ -6,11 +6,12 @@ body{
 	
 }
 
-.wrapper div {
+div {
 	width: 500px;
 	margin-left: auto;
 	margin-right: auto;
 }
+
 img {
 	width: 500px;
 }
