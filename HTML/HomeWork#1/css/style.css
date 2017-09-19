@@ -1,0 +1,25 @@
+body{
+	color: #263555FF; 
+	font-family: sans-serif;
+	width: 500px;
+}
+
+img {
+	width: 500px;
+}
+
+h2 {
+	text-transform: uppercase;
+}
+
+p {
+	color: #4E5050FF;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
