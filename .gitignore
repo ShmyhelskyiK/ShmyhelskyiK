@@ -1,3 +1,5 @@
 #Rar-Zip arhives
 *.rar
 *.zip
+#PSD-maket
+*.psd
