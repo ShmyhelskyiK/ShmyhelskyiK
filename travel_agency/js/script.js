@@ -1,3 +1,5 @@
+// scrollup
+
 $(function() {
     // при нажатии на кнопку scrollup
     $('.scrollup').click(function() {
@@ -18,4 +20,9 @@ $(window).scroll(function() {
     else {
         $('.scrollup').fadeOut();
     }
+});
+
+// fancybox from gallery
+$(document).ready(function() {
+    $(".fancybox").fancybox();
 });
