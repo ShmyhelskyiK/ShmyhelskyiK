@@ -230,7 +230,8 @@ h1,h2,h3,h4,h5,h6 {
   top: 0;
   opacity: 0;
   transition: all 1s;
-  transform: translate3d(-100%, -50%, -30px) skew(30deg, -40deg);
+  transform: translate3d(-50%, -100%, -30px) skew(-40deg, -50deg);
+
 }
 
 .description h3 {
